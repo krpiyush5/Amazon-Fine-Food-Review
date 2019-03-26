@@ -32,4 +32,4 @@ Objective:
 
 Given a review, determine whether the review is positive (rating of 4 or 5) or negative (rating of 1 or 2)
 
-With the perception of text/review we predicted the polarity of review.In this project we applied various algorithm such as KNN,Naive Bayes,Logistic Regression,Support Vector machine,Decision trees,Random forest,Clustering .
+With the perception of text/review we predicted the polarity of review.In this project we applied various algorithm such as KNN,Naive Bayes,Logistic Regression,Support Vector machine,Decision trees,Random forest & GBDT ,LSTM .
